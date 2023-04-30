@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+a{
+    margin:50px;
+}
+h1{
+    text-align: center;
+}
+img{
+    margin: 30px;
+    border-top: double 10px;
+}
